@@ -1,0 +1,21 @@
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 10px 70px;
+}
+h3 {
+    background-color: rgb(221, 216, 216);
+    padding-left: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+ .lang {
+     width: 50%;
+ }
+  td.right {
+      text-align: right;
+  }
